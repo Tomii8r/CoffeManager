@@ -1,0 +1,19 @@
+/* Grupo-12 */
+Proyecto: CoffeeManager
+Asignatura: Diseño y Desarrollo Web — UADE
+
+Rol: UX Researcher
+Nombre: [Erazo Tomas Ezequiel, Leonel Rodio]
+Responsabilidades: Investigación de usuarios, entrevistas, encuestas, definición de protopersona.
+
+Rol: UI Designer
+Nombre: [Erazo Tomas Ezequiel, Leonel Rodio]
+Responsabilidades: Guía de estilo, wireframes, prototipado de pantallas.
+
+Rol: Frontend Developer
+Nombre: [Erazo Tomas Ezequiel, Leonel Rodio]
+Responsabilidades: Maquetado HTML/CSS/Bootstrap, interactividad JS, validación de formularios.
+
+Rol: QA / Documentation
+Nombre: [Erazo Tomas Ezequiel, Leonel Rodio]
+Responsabilidades: Validación W3C, Lighthouse, contraste, documentación y anexo de uso de IA.
